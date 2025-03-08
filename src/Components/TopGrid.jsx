@@ -31,7 +31,6 @@ const TopGrid = () => {
                 justifyContent: "center",
                 height: "500px",
                 marginLeft: "5px",
-        
               }}
             >
               <Typography color="black" variant="h3">
@@ -50,7 +49,6 @@ const TopGrid = () => {
             </Box>
           </Grid>
 
-
           <Grid item size={6}>
             <Box
               sx={{
@@ -60,11 +58,11 @@ const TopGrid = () => {
                 justifyContent: "center",
                 height: "500px",
                 marginRight: "30px",
-                 flexWrap:"wrap"
+                flexWrap: "wrap",
               }}
             >
               <Typography color="black" variant="h3">
-                CHOSE WITH CONFIDENCE
+                CHOOSE WITH CONFIDENCE
               </Typography>
               <Typography color="grey" variant="body1">
                 Affirm Provides Flexable payment Sloutions, Allowing you to buy
@@ -78,7 +76,6 @@ const TopGrid = () => {
               </Box>
             </Box>
           </Grid>
-
 
           <Grid item size={6}>
             <Box>
@@ -100,7 +97,7 @@ const TopGrid = () => {
                 justifyContent: "center",
                 height: "500px",
                 marginLeft: "30px",
-                flexWrap:"wrap"
+                flexWrap: "wrap",
               }}
             >
               <Typography color="black" variant="h3">
